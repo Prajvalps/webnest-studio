@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/git_Repo_Banner1.png" alt="WebNest Studio Banner" width="100%">
+  <img src="WebNest-Studio/assets/git_Repo_Banner1.png" alt="WebNest Studio Banner" width="100%">
 </p>
 <h1 align="center">🌐 WebNest Studio</h1>
 <p align="center">
