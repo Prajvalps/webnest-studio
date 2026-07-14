@@ -6,13 +6,13 @@ A modern, responsive business website developed for **WebNest Studio**, showcasi
 https://webnest-studio.netlify.app
 
 ## 📸 Preview
-<img width="1080" height="678" alt="img1" src="https://github.com/user-attachments/assets/816028ad-574a-44b1-84e9-f563ddc8cfaf" />
-<img width="1080" height="678" alt="img2" src="https://github.com/user-attachments/assets/da431011-3713-46c4-9a41-6e4f00c131e1" />
-<img width="1080" height="678" alt="img3" src="https://github.com/user-attachments/assets/675a50b9-f5f0-4003-aa9c-88ed8df19a8e" />
-<img width="1080" height="678" alt="img4" src="https://github.com/user-attachments/assets/f76654cd-ef91-411a-8f64-ec530540472f" />
-<img width="1080" height="678" alt="img5" src="https://github.com/user-attachments/assets/f235efa1-6eaa-4a4a-9dd9-a25c123338c2" />
-<img width="1080" height="678" alt="img6" src="https://github.com/user-attachments/assets/8ab0c46f-973a-4225-a4fa-86f26c14aa1f" />
-<img width="1080" height="678" alt="img7" src="https://github.com/user-attachments/assets/18ffc50c-b57b-4b61-97e4-8e91a10da6d9" />
+<img width="1080" height="578" alt="img1" src="https://github.com/user-attachments/assets/816028ad-574a-44b1-84e9-f563ddc8cfaf" />
+<img width="1080" height="578" alt="img2" src="https://github.com/user-attachments/assets/da431011-3713-46c4-9a41-6e4f00c131e1" />
+<img width="1080" height="578" alt="img3" src="https://github.com/user-attachments/assets/675a50b9-f5f0-4003-aa9c-88ed8df19a8e" />
+<img width="1080" height="578" alt="img4" src="https://github.com/user-attachments/assets/f76654cd-ef91-411a-8f64-ec530540472f" />
+<img width="1080" height="578" alt="img5" src="https://github.com/user-attachments/assets/f235efa1-6eaa-4a4a-9dd9-a25c123338c2" />
+<img width="1080" height="578" alt="img6" src="https://github.com/user-attachments/assets/8ab0c46f-973a-4225-a4fa-86f26c14aa1f" />
+<img width="1080" height="578" alt="img7" src="https://github.com/user-attachments/assets/18ffc50c-b57b-4b61-97e4-8e91a10da6d9" />
 
 
 ## ✨ Features
