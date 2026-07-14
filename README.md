@@ -66,7 +66,7 @@ WebNest-Studio/
 
 **Prajval P S**
 
-GitHub: https://github.com/PrajvalCodes
+GitHub: https://github.com/Prajvalps
 
 LinkedIn: *www.linkedin.com/in/prajvalps1054*
 
